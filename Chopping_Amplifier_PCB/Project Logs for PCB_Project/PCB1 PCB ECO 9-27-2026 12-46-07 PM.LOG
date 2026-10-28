@@ -1,0 +1,19 @@
+Added Component: Designator=R?(RESC1608X55N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/rc0603jr-070rl/yageo?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.yageo.com/documents/recent/PYu-RC0603_51_RoHS_L_v5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Yageo Group"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "603-RC0603JR-070RL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0603JR-070RL?qs=2cAdsCoAWRGWyPcuXgGiXQ%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vout Pin=R?-1
+Added Pin To Net: NetName=Vout Pin=U5-33
+Change Net Name : Old Net Name=Vout New Net Name=NetC3_2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=U5-36
+Added Net: Name=NetR?_2
+Added Member To Class: ClassName=Sheet_3 Member=Component R? 0R
+Added Room: Name=Sheet_2
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

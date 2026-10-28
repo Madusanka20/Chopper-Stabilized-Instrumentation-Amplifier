@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=Boot1 NewDesignator=BOOT
+Change Component Designator: OldDesignator=EN1 NewDesignator=EN
+Change Component Designator: OldDesignator=Reg1 NewDesignator=REG
+Added Room: Name=Sheet_2

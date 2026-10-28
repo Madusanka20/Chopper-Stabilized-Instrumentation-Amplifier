@@ -1,0 +1,4 @@
+Change Class Name : Old Net Name=Designator New Net Name=Sheet_3
+Added Class: Name=Sheet_2
+Change Room Name: Old Name=Designator New Name=Sheet_2
+Change Room Scope: Old Scope=InComponentClass('Designator') New Scope=InComponentClass('Sheet_2')

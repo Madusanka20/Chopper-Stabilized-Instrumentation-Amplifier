@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetR2_2 Pin=R4-2
+Removed Pin From Net: NetName=NetR2_1 Pin=TP2-1
+Removed Pin From Net: NetName=NetR4_1 Pin=TP7-1
+Removed Pin From Net: NetName=NetR2_1 Pin=U1-1
+Removed Pin From Net: NetName=NetR2_1 Pin=U1-2
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-13
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-14
+Removed Pin From Net: NetName=NetR2_2 Pin=U3-10
+Removed Pin From Net: NetName=NetR2_2 Pin=U3-15
+Change Component Comment : Designator=R5 Old Comment=RN732ATTDK200321B25 New Comment=RN732ATTDK2001B25
+Added Component: Designator=R18(FP-AC0603-IPC_A)
+Added Component: Designator=R19(FP-AC0603-IPC_A)
+Added Pin To Net: NetName=NetR2_1 Pin=R18-1
+Added Pin To Net: NetName=NetR4_1 Pin=R19-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U3-10
+Added Pin To Net: NetName=NetR4_2 Pin=U3-15
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR18_2 Pin=R18-2
+Added Pin To Net: NetName=NetR18_2 Pin=TP2-1
+Added Pin To Net: NetName=NetR18_2 Pin=U1-1
+Added Pin To Net: NetName=NetR18_2 Pin=U1-2
+Added Net: Name=NetR18_2
+Added Pin To Net: NetName=NetR19_2 Pin=R19-2
+Added Pin To Net: NetName=NetR19_2 Pin=TP7-1
+Added Pin To Net: NetName=NetR19_2 Pin=U1-13
+Added Pin To Net: NetName=NetR19_2 Pin=U1-14
+Added Net: Name=NetR19_2
+Added Member To Class: ClassName=Sheet_2 Member=Component R18 AC0603JR-7W10KL
+Added Member To Class: ClassName=Sheet_2 Member=Component R19 AC0603JR-7W10KL
+Added Room: Name=Sheet_2
