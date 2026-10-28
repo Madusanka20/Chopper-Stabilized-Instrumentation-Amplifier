@@ -8,13 +8,28 @@ A mixed-signal PCB design exploring chopper-based analog amplification using an 
 - **2 × TMUX1111PWR** — Analog switching
 - **2 × TLV9064IDR** — Operational amplification
 
-## PCB Design
+## 3D Render & Layout Overview
 
-- Four-layer PCB
-- Two internal ground planes (L2 and L3)
-- Ground via stitching for improved grounding
-- Local supply decoupling
-- Analog and digital signal-routing considerations
+| 3D Top View (Assembled) | 3D Top View (Bare PCB) |
+| :---: | :---: |
+| ![3D View](Assets/3D-View.jpg) | ![3D Without Components](Assets/3D-Without%20Componets.jpg) |
+
+## PCB Design & Layer Views
+
+- **Four-layer PCB Structure**
+- **Two internal ground planes (L2 and L3)**
+- **Ground via stitching for improved grounding**
+- **Local supply decoupling & signal isolation**
+
+### Routing & Copper Fills
+
+| Top Layer Routing (Red) | Bottom Layer Routing (Blue) |
+| :---: | :---: |
+| ![Top Layer](Assets/top_Layer.jpg) | ![Bottom Layer](Assets/Bottom_Layer.jpg) |
+
+| Copper Footprints | Ground Via Stitching  |
+| :---: | :---: |
+| ![Copper Layer](Assets/Copper-Layer.jpg) | ![Via Stitching](Assets/via%20stichings.jpg) |
 
 ## Design Considerations
 
